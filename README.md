@@ -1,5 +1,6 @@
 Early Fusion of CNN and BovW Features for FER2013
-Research Paper for Capstone Project of CSE Department, North South University
+Research Paper for Capstone Project of CSE Department, North South University.
+
 In collaboration with Nashrah Haque, Labib Rahman, MD Rifat Bin Yusuf
 
 Check the poster for a detailed description of the methodology.
